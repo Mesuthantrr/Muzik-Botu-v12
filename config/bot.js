@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODI3NTI4NjY4MjE3MDgxODY4.YGcWIQ.XkI4kpLXYp8KmHf5-vT9s5Emgt8',
+        token: 'Nzk5OTk0NTEyMDcxNzIwOTcw.YALq8g.mA1Qbs6-BgCzcSmohtMJ9J2gkKU',
         prefix: '?',
         activity: 'Antikor abimi seviyorum <3 ',
     },
